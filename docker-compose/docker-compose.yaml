@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_DATABASE: angularsp-202210
+    ports:
+      - 27017:27017
