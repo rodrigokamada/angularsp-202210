@@ -9,7 +9,7 @@
 		"securitySchemes": {}
 	},
 	"info": {
-		"title": "tdc-business-sp-2022",
+		"title": "angularsp-202210",
 		"version": "1.0.0",
 		"description": "Repositório utilizado no evento AngularSP com o tema \"API REST em Node.js: Boas práticas em produção.\"",
 		"license": {
